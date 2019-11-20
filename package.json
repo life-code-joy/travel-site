@@ -9,16 +9,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-   "type": "git",
-   "url": "git+https://github.com/life-code-joy/travel-site.git"
- },
- "author": "dar",
+    "type": "git",
+    "url": "git+https://github.com/life-code-joy/travel-site.git"
+  },
+  "author": "dar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/life-code-joy/travel-site/issues"
   },
   "homepage": "https://github.com/life-code-joy/travel-site#readme",
-  
   "dependencies": {
     "axios": "^0.19.0",
     "lazysizes": "^5.1.2",
